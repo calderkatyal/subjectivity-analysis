@@ -21,4 +21,4 @@ Before running the project, ensure you have Python installed on your system. The
 - Naive Bayes Classifier: Employs this probabilistic classifier for its effectiveness in text classification, representing an application of probabilistic modeling in AI.
 - Data Preprocessing and Feature Extraction: Techniques in NLP are used for transforming textual data into a machine learning-compatible format.
 - Model Persistence (Pickle module in Python): The tool uses Python's pickle for serializing the machine learning model, enabling long-term model training and usage.
-- Interactive User Feedback Loop: Designed to adapt to user input, the tool showcases an interactive and evolving machine learning system.
+- Interactive User Feedback Loop: Designed to adapt to user input
